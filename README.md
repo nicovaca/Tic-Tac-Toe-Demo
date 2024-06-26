@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Demo
-Implementazione tic-tac-toe in React
+Implementazione gioco tic-tac-toe in React
